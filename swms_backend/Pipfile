@@ -1,0 +1,42 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+rope = "*"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-filter = "*"
+django-guardian = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
+django-grappelli = "*"
+python-dotenv = "*"
+django-cors-headers = "*"
+drf-yasg = "*"
+django-import-export = "*"
+whitenoise = "*"
+gunicorn = "*"
+werkzeug = "*"
+pillow = "*"
+psycopg2 = "*"
+django-crispy-forms = "*"
+django-monthfield = "*"
+django-extensions = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+deap = "*"
+django-pandas = "*"
+django-model-utils = "*"
+scipy = "*"
+scikit-learn = "*"
+tensorflow = "*"
+
+[requires]
+python_version = "3.8"

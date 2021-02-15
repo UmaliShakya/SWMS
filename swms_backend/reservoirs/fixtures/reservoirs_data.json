@@ -1,0 +1,184 @@
+[
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 1,
+    "fields": {
+      "name": "Padaviya",
+      "description": "",
+      "division": "Padaviya",
+      "capacity": 85000,
+      "catchment_area": 83200,
+      "surface_area": 6000,
+      "created_at": "2020-08-16T11:43:49.978Z",
+      "updated_at": "2020-08-16T11:44:06.424Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 2,
+    "fields": {
+      "name": "Vahalkada",
+      "description": "",
+      "division": "Horowpothana / Kebithigollewa",
+      "capacity": 43000,
+      "catchment_area": 12600,
+      "surface_area": 2500,
+      "created_at": "2020-08-16T11:46:21.085Z",
+      "updated_at": "2020-08-16T11:46:21.085Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 3,
+    "fields": {
+      "name": "Nachchaduwa",
+      "description": "",
+      "division": "Nachchaduwa",
+      "capacity": 45150,
+      "catchment_area": 94000,
+      "surface_area": 3000,
+      "created_at": "2020-08-16T11:46:54.878Z",
+      "updated_at": "2020-08-16T11:46:54.878Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 4,
+    "fields": {
+      "name": "Thuruwila Wewa",
+      "description": "",
+      "division": "Nachchaduwa",
+      "capacity": 5190,
+      "catchment_area": 12000,
+      "surface_area": 500,
+      "created_at": "2020-08-16T11:47:44.351Z",
+      "updated_at": "2020-08-16T11:47:44.351Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 5,
+    "fields": {
+      "name": "Nuwara Wewa",
+      "description": "",
+      "division": "N.P.E",
+      "capacity": 36050,
+      "catchment_area": 13000,
+      "surface_area": 2500,
+      "created_at": "2020-08-16T11:48:39.656Z",
+      "updated_at": "2020-08-16T11:48:39.656Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 6,
+    "fields": {
+      "name": "Mahakanadarawa Wewa",
+      "description": "",
+      "division": "Mohintale",
+      "capacity": 36250,
+      "catchment_area": 50401,
+      "surface_area": 3200,
+      "created_at": "2020-08-16T11:49:32.788Z",
+      "updated_at": "2020-08-17T19:15:20.783Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 7,
+    "fields": {
+      "name": "Mahavilachchiya Wewa",
+      "description": "",
+      "division": "Mahavilachchiya",
+      "capacity": 31500,
+      "catchment_area": 56560,
+      "surface_area": 2500,
+      "created_at": "2020-08-16T11:50:22.228Z",
+      "updated_at": "2020-08-17T17:57:17.017Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 8,
+    "fields": {
+      "name": "Thisawewa",
+      "description": "",
+      "division": "N.P.C",
+      "capacity": 3500,
+      "catchment_area": 800,
+      "surface_area": 350,
+      "created_at": "2020-08-16T11:51:11.684Z",
+      "updated_at": "2020-08-16T11:51:11.684Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 9,
+    "fields": {
+      "name": "Basawakkulama Wewa",
+      "description": "",
+      "division": "N. P. C.",
+      "capacity": 1910,
+      "catchment_area": 1440,
+      "surface_area": 200,
+      "created_at": "2020-08-16T11:52:18.173Z",
+      "updated_at": "2020-08-16T11:52:18.173Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 10,
+    "fields": {
+      "name": "Rajanganaya Wewa",
+      "description": "",
+      "division": "Rajanganaya",
+      "capacity": 81603,
+      "catchment_area": 118800,
+      "surface_area": 4000,
+      "created_at": "2020-08-16T11:53:01.154Z",
+      "updated_at": "2020-08-16T11:53:01.154Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 11,
+    "fields": {
+      "name": "Angamuwa Wewa",
+      "description": "",
+      "division": "Rajanganaya",
+      "capacity": 14400,
+      "catchment_area": 5000,
+      "surface_area": 1200,
+      "created_at": "2020-08-16T11:53:54.192Z",
+      "updated_at": "2020-08-16T11:53:54.192Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 12,
+    "fields": {
+      "name": "Hurulu Wewa",
+      "description": "",
+      "division": "Galenbidunuwewa",
+      "capacity": 55000,
+      "catchment_area": 30800,
+      "surface_area": 3500,
+      "created_at": "2020-08-16T11:54:33.489Z",
+      "updated_at": "2020-08-16T11:54:33.489Z"
+    }
+  },
+  {
+    "model": "reservoirs.reservoir",
+    "pk": 13,
+    "fields": {
+      "name": "Manankattiya Wewa",
+      "description": "",
+      "division": "Galenbidunuwewa",
+      "capacity": 7600,
+      "catchment_area": 9520,
+      "surface_area": 750,
+      "created_at": "2020-08-16T11:55:15.314Z",
+      "updated_at": "2020-08-16T11:55:15.314Z"
+    }
+  }
+]
